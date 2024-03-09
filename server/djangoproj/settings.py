@@ -34,6 +34,7 @@ ALLOWED_HOSTS=[
 ]
 CSRF_TRUSTED_ORIGINS=[
     'https://j8ahmed-8000.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai',
+    # Not mentioned but may be needed
     'https://j8ahmed-8000.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai'
 ]
 
